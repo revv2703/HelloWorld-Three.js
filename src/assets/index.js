@@ -24,7 +24,7 @@ import threejs from "./tech/threejs.svg";
 import acm from "./company/acm.png"
 import ongc from "./company/ongc.png"
 
-import carrent from "./carrent.png";
+import gan from "./gan.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -50,7 +50,7 @@ export {
   tailwind,
   typescript,
   threejs,
-  carrent,
+  gan,
   jobit,
   tripguide,
   ongc,
