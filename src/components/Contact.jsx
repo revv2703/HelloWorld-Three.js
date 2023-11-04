@@ -7,11 +7,6 @@ import { SectionWrapper } from "../hoc"
 import { slideIn } from "../utils/motion"
 
 
-// template_jntgxhj
-// service_gerr3y7
-// t_JobJulvKM7fjhVp
-
-
 const Contact = () => {
 
   const formRef = useRef()
@@ -81,4 +76,4 @@ const Contact = () => {
   )
 }
 
-export default Contact
+export default SectionWrapper(Contact, "contact")
