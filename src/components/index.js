@@ -15,8 +15,8 @@ export {
   Experience,
   Works,
   Contact,
-  EarthCanvas, 
-  BallCanvas, 
-  SpaceshipsCanvas, 
+  EarthCanvas,
+  BallCanvas,
+  SpaceshipsCanvas,
   StarsCanvas
 }
