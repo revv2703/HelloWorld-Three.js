@@ -25,8 +25,7 @@ import acm from "./company/acm.png"
 import ongc from "./company/ongc.png"
 
 import gan from "./gan.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import comingsoon from "./comingsoon.jpeg";
 
 export {
   logo,
@@ -51,8 +50,7 @@ export {
   typescript,
   threejs,
   gan,
-  jobit,
-  tripguide,
+  comingsoon,
   ongc,
   acm,
 };
